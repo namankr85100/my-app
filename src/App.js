@@ -14,7 +14,7 @@ function MyButton() {
       <button onClick={handleClick}>
           Clicked {count}
       </button>
-  )
+  ) 
 }
 
 const user = {
